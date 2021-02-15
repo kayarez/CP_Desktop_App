@@ -1,0 +1,297 @@
+D:\4 СЕМЕСТР\ООП\Rattler\Rattler\bin\Debug\Rattler.exe.config
+D:\4 СЕМЕСТР\ООП\Rattler\Rattler\bin\Debug\Rattler.exe
+D:\4 СЕМЕСТР\ООП\Rattler\Rattler\bin\Debug\Rattler.pdb
+D:\4 СЕМЕСТР\ООП\Rattler\Rattler\obj\Debug\Rattler.csprojAssemblyReference.cache
+D:\4 СЕМЕСТР\ООП\Rattler\Rattler\obj\Debug\MainWindow.g.cs
+D:\4 СЕМЕСТР\ООП\Rattler\Rattler\obj\Debug\App.g.cs
+D:\4 СЕМЕСТР\ООП\Rattler\Rattler\obj\Debug\Rattler_MarkupCompile.cache
+D:\4 СЕМЕСТР\ООП\Rattler\Rattler\obj\Debug\Rattler_MarkupCompile.lref
+D:\4 СЕМЕСТР\ООП\Rattler\Rattler\obj\Debug\MainWindow.baml
+D:\4 СЕМЕСТР\ООП\Rattler\Rattler\obj\Debug\Rattler.g.resources
+D:\4 СЕМЕСТР\ООП\Rattler\Rattler\obj\Debug\Rattler.Properties.Resources.resources
+D:\4 СЕМЕСТР\ООП\Rattler\Rattler\obj\Debug\Rattler.csproj.GenerateResource.cache
+D:\4 СЕМЕСТР\ООП\Rattler\Rattler\obj\Debug\Rattler.exe
+D:\4 СЕМЕСТР\ООП\Rattler\Rattler\obj\Debug\Rattler.pdb
+D:\4 СЕМЕСТР\ООП\Rattler\Rattler\obj\Debug\Views\LoginControl.g.cs
+D:\4 СЕМЕСТР\ООП\Rattler\Rattler\obj\Debug\Views\LoginControl.baml
+D:\4 СЕМЕСТР\ООП\Rattler\Rattler\obj\Debug\Views\RegistrationControl.g.cs
+D:\4 СЕМЕСТР\ООП\Rattler\Rattler\obj\Debug\Views\RegistrationControl.baml
+D:\4 СЕМЕСТР\ООП\Rattler\Rattler\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\4 СЕМЕСТР\ООП\11.05.2020\KP\Rattler\Rattler\obj\Debug\EntryWindow.g.cs
+D:\4 СЕМЕСТР\ООП\11.05.2020\KP\Rattler\Rattler\obj\Debug\Views\LoginControl.g.cs
+D:\4 СЕМЕСТР\ООП\11.05.2020\KP\Rattler\Rattler\obj\Debug\Views\RegistrationControl.g.cs
+D:\4 СЕМЕСТР\ООП\11.05.2020\KP\Rattler\Rattler\obj\Debug\App.g.cs
+D:\4 СЕМЕСТР\ООП\11.05.2020\KP\Rattler\Rattler\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\4 СЕМЕСТР\ООП\11.05.2020\KP\Rattler\Rattler\obj\Debug\Rattler_MarkupCompile.cache
+D:\4 СЕМЕСТР\ООП\11.05.2020\KP\Rattler\Rattler\obj\Debug\Rattler_MarkupCompile.lref
+D:\4 СЕМЕСТР\ООП\11.05.2020\KP\Rattler\Rattler\obj\Debug\Rattler.exe
+D:\4 СЕМЕСТР\ООП\11.05.2020\KP\Rattler\Rattler\obj\Debug\Rattler.pdb
+D:\4 СЕМЕСТР\ООП\11.05.2020\KP\Rattler\Rattler\bin\Debug\Rattler.exe.config
+D:\4 СЕМЕСТР\ООП\11.05.2020\KP\Rattler\Rattler\bin\Debug\Rattler.exe
+D:\4 СЕМЕСТР\ООП\11.05.2020\KP\Rattler\Rattler\bin\Debug\Rattler.pdb
+D:\4 СЕМЕСТР\ООП\11.05.2020\KP\Rattler\Rattler\bin\Debug\EntityFramework.dll
+D:\4 СЕМЕСТР\ООП\11.05.2020\KP\Rattler\Rattler\bin\Debug\EntityFramework.SqlServer.dll
+D:\4 СЕМЕСТР\ООП\11.05.2020\KP\Rattler\Rattler\bin\Debug\EntityFramework.xml
+D:\4 СЕМЕСТР\ООП\11.05.2020\KP\Rattler\Rattler\bin\Debug\EntityFramework.SqlServer.xml
+D:\4 СЕМЕСТР\ООП\11.05.2020\KP\Rattler\Rattler\obj\Debug\EntryWindow.baml
+D:\4 СЕМЕСТР\ООП\11.05.2020\KP\Rattler\Rattler\obj\Debug\Views\LoginControl.baml
+D:\4 СЕМЕСТР\ООП\11.05.2020\KP\Rattler\Rattler\obj\Debug\Views\RegistrationControl.baml
+D:\4 СЕМЕСТР\ООП\11.05.2020\KP\Rattler\Rattler\obj\Debug\Rattler.g.resources
+D:\4 СЕМЕСТР\ООП\11.05.2020\KP\Rattler\Rattler\obj\Debug\Rattler.Properties.Resources.resources
+D:\4 СЕМЕСТР\ООП\11.05.2020\KP\Rattler\Rattler\obj\Debug\Rattler.csproj.GenerateResource.cache
+D:\4 СЕМЕСТР\ООП\11.05.2020\KP\Rattler\Rattler\obj\Debug\Rattler.csproj.CoreCompileInputs.cache
+D:\4 СЕМЕСТР\ООП\11.05.2020\KP\Rattler\Rattler\obj\Debug\Rattler.csproj.CopyComplete
+D:\4 СЕМЕСТР\ООП\11.05.2020\KP\Rattler\Rattler\obj\Debug\MainWindow.g.cs
+D:\4 СЕМЕСТР\ООП\11.05.2020\KP\Rattler\Rattler\obj\Debug\MainWindow.baml
+D:\4 СЕМЕСТР\ООП\11.05.2020\KP\Rattler\Rattler\bin\Debug\MaterialDesignColors.dll
+D:\4 СЕМЕСТР\ООП\11.05.2020\KP\Rattler\Rattler\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\4 СЕМЕСТР\ООП\11.05.2020\KP\Rattler\Rattler\bin\Debug\MaterialDesignColors.pdb
+D:\4 СЕМЕСТР\ООП\11.05.2020\KP\Rattler\Rattler\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\4 СЕМЕСТР\ООП\11.05.2020\KP\Rattler\Rattler\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\4 СЕМЕСТР\ООП\11.05.2020\KP\Rattler\Rattler\bin\Debug\MySql.Data.dll
+D:\4 СЕМЕСТР\ООП\11.05.2020\KP\Rattler\Rattler\bin\Debug\MySql.Data.Entity.EF6.dll
+D:\4 СЕМЕСТР\ООП\11.05.2020\KP\Rattler\Rattler\bin\Debug\MySql.Data.xml
+D:\4 СЕМЕСТР\ООП\11.05.2020\KP\Rattler\Rattler\bin\Debug\MySql.Data.Entity.EF6.xml
+D:\4 СЕМЕСТР\ООП\11.05.2020\KP\Rattler\Rattler\obj\Debug\AdminWindow.g.cs
+D:\4 СЕМЕСТР\ООП\11.05.2020\KP\Rattler\Rattler\obj\Debug\AdminWindow.baml
+D:\4 СЕМЕСТР\ООП\11.05.2020\KP\Rattler\Rattler\obj\Debug\Views\TrainControl.g.cs
+D:\4 СЕМЕСТР\ООП\11.05.2020\KP\Rattler\Rattler\obj\Debug\Views\TripControl.g.cs
+D:\4 СЕМЕСТР\ООП\11.05.2020\KP\Rattler\Rattler\obj\Debug\Views\TrainControl.baml
+D:\4 СЕМЕСТР\ООП\11.05.2020\KP\Rattler\Rattler\obj\Debug\Views\TripControl.baml
+D:\4 СЕМЕСТР\ООП\11.05.2020\KP\Rattler\Rattler\obj\Debug\Rattler.csprojAssemblyReference.cache
+D:\4 СЕМЕСТР\ООП\11.05.2020\KP\Rattler\Rattler\bin\Debug\CommonServiceLocator.dll
+D:\4 СЕМЕСТР\ООП\11.05.2020\KP\Rattler\Rattler\bin\Debug\GalaSoft.MvvmLight.dll
+D:\4 СЕМЕСТР\ООП\11.05.2020\KP\Rattler\Rattler\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+D:\4 СЕМЕСТР\ООП\11.05.2020\KP\Rattler\Rattler\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+D:\4 СЕМЕСТР\ООП\11.05.2020\KP\Rattler\Rattler\bin\Debug\System.Windows.Interactivity.dll
+D:\4 СЕМЕСТР\ООП\11.05.2020\KP\Rattler\Rattler\bin\Debug\GalaSoft.MvvmLight.pdb
+D:\4 СЕМЕСТР\ООП\11.05.2020\KP\Rattler\Rattler\bin\Debug\GalaSoft.MvvmLight.xml
+D:\4 СЕМЕСТР\ООП\11.05.2020\KP\Rattler\Rattler\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+D:\4 СЕМЕСТР\ООП\11.05.2020\KP\Rattler\Rattler\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+D:\4 СЕМЕСТР\ООП\11.05.2020\KP\Rattler\Rattler\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+D:\4 СЕМЕСТР\ООП\11.05.2020\KP\Rattler\Rattler\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+D:\4 СЕМЕСТР\ООП\11.05.2020\KP\Rattler\Rattler\bin\Debug\Sitecore.FakeDb.dll
+D:\4 СЕМЕСТР\ООП\11.05.2020\KP\Rattler\Rattler\bin\Debug\Sitecore.FakeDb.xml
+D:\4 СЕМЕСТР\ООП\11.05.2020\KP(21.05)\KP\Rattler\Rattler\bin\Debug\Rattler.exe.config
+D:\4 СЕМЕСТР\ООП\11.05.2020\KP(21.05)\KP\Rattler\Rattler\bin\Debug\Rattler.exe
+D:\4 СЕМЕСТР\ООП\11.05.2020\KP(21.05)\KP\Rattler\Rattler\bin\Debug\Rattler.pdb
+D:\4 СЕМЕСТР\ООП\11.05.2020\KP(21.05)\KP\Rattler\Rattler\bin\Debug\CommonServiceLocator.dll
+D:\4 СЕМЕСТР\ООП\11.05.2020\KP(21.05)\KP\Rattler\Rattler\bin\Debug\EntityFramework.dll
+D:\4 СЕМЕСТР\ООП\11.05.2020\KP(21.05)\KP\Rattler\Rattler\bin\Debug\EntityFramework.SqlServer.dll
+D:\4 СЕМЕСТР\ООП\11.05.2020\KP(21.05)\KP\Rattler\Rattler\bin\Debug\GalaSoft.MvvmLight.dll
+D:\4 СЕМЕСТР\ООП\11.05.2020\KP(21.05)\KP\Rattler\Rattler\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+D:\4 СЕМЕСТР\ООП\11.05.2020\KP(21.05)\KP\Rattler\Rattler\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+D:\4 СЕМЕСТР\ООП\11.05.2020\KP(21.05)\KP\Rattler\Rattler\bin\Debug\MaterialDesignColors.dll
+D:\4 СЕМЕСТР\ООП\11.05.2020\KP(21.05)\KP\Rattler\Rattler\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\4 СЕМЕСТР\ООП\11.05.2020\KP(21.05)\KP\Rattler\Rattler\bin\Debug\Sitecore.FakeDb.dll
+D:\4 СЕМЕСТР\ООП\11.05.2020\KP(21.05)\KP\Rattler\Rattler\bin\Debug\System.Windows.Interactivity.dll
+D:\4 СЕМЕСТР\ООП\11.05.2020\KP(21.05)\KP\Rattler\Rattler\bin\Debug\EntityFramework.xml
+D:\4 СЕМЕСТР\ООП\11.05.2020\KP(21.05)\KP\Rattler\Rattler\bin\Debug\EntityFramework.SqlServer.xml
+D:\4 СЕМЕСТР\ООП\11.05.2020\KP(21.05)\KP\Rattler\Rattler\bin\Debug\GalaSoft.MvvmLight.pdb
+D:\4 СЕМЕСТР\ООП\11.05.2020\KP(21.05)\KP\Rattler\Rattler\bin\Debug\GalaSoft.MvvmLight.xml
+D:\4 СЕМЕСТР\ООП\11.05.2020\KP(21.05)\KP\Rattler\Rattler\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+D:\4 СЕМЕСТР\ООП\11.05.2020\KP(21.05)\KP\Rattler\Rattler\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+D:\4 СЕМЕСТР\ООП\11.05.2020\KP(21.05)\KP\Rattler\Rattler\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+D:\4 СЕМЕСТР\ООП\11.05.2020\KP(21.05)\KP\Rattler\Rattler\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+D:\4 СЕМЕСТР\ООП\11.05.2020\KP(21.05)\KP\Rattler\Rattler\bin\Debug\MaterialDesignColors.pdb
+D:\4 СЕМЕСТР\ООП\11.05.2020\KP(21.05)\KP\Rattler\Rattler\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\4 СЕМЕСТР\ООП\11.05.2020\KP(21.05)\KP\Rattler\Rattler\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\4 СЕМЕСТР\ООП\11.05.2020\KP(21.05)\KP\Rattler\Rattler\bin\Debug\Sitecore.FakeDb.xml
+D:\4 СЕМЕСТР\ООП\11.05.2020\KP(21.05)\KP\Rattler\Rattler\obj\Debug\AdminWindow.g.cs
+D:\4 СЕМЕСТР\ООП\11.05.2020\KP(21.05)\KP\Rattler\Rattler\obj\Debug\EntryWindow.g.cs
+D:\4 СЕМЕСТР\ООП\11.05.2020\KP(21.05)\KP\Rattler\Rattler\obj\Debug\MainWindow.g.cs
+D:\4 СЕМЕСТР\ООП\11.05.2020\KP(21.05)\KP\Rattler\Rattler\obj\Debug\Views\LoginControl.g.cs
+D:\4 СЕМЕСТР\ООП\11.05.2020\KP(21.05)\KP\Rattler\Rattler\obj\Debug\Views\RegistrationControl.g.cs
+D:\4 СЕМЕСТР\ООП\11.05.2020\KP(21.05)\KP\Rattler\Rattler\obj\Debug\Views\TrainControl.g.cs
+D:\4 СЕМЕСТР\ООП\11.05.2020\KP(21.05)\KP\Rattler\Rattler\obj\Debug\Views\TripControl.g.cs
+D:\4 СЕМЕСТР\ООП\11.05.2020\KP(21.05)\KP\Rattler\Rattler\obj\Debug\App.g.cs
+D:\4 СЕМЕСТР\ООП\11.05.2020\KP(21.05)\KP\Rattler\Rattler\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\4 СЕМЕСТР\ООП\11.05.2020\KP(21.05)\KP\Rattler\Rattler\obj\Debug\Rattler_MarkupCompile.cache
+D:\4 СЕМЕСТР\ООП\11.05.2020\KP(21.05)\KP\Rattler\Rattler\obj\Debug\Rattler_MarkupCompile.lref
+D:\4 СЕМЕСТР\ООП\11.05.2020\KP(21.05)\KP\Rattler\Rattler\obj\Debug\AdminWindow.baml
+D:\4 СЕМЕСТР\ООП\11.05.2020\KP(21.05)\KP\Rattler\Rattler\obj\Debug\EntryWindow.baml
+D:\4 СЕМЕСТР\ООП\11.05.2020\KP(21.05)\KP\Rattler\Rattler\obj\Debug\MainWindow.baml
+D:\4 СЕМЕСТР\ООП\11.05.2020\KP(21.05)\KP\Rattler\Rattler\obj\Debug\Views\LoginControl.baml
+D:\4 СЕМЕСТР\ООП\11.05.2020\KP(21.05)\KP\Rattler\Rattler\obj\Debug\Views\RegistrationControl.baml
+D:\4 СЕМЕСТР\ООП\11.05.2020\KP(21.05)\KP\Rattler\Rattler\obj\Debug\Views\TrainControl.baml
+D:\4 СЕМЕСТР\ООП\11.05.2020\KP(21.05)\KP\Rattler\Rattler\obj\Debug\Views\TripControl.baml
+D:\4 СЕМЕСТР\ООП\11.05.2020\KP(21.05)\KP\Rattler\Rattler\obj\Debug\Rattler.g.resources
+D:\4 СЕМЕСТР\ООП\11.05.2020\KP(21.05)\KP\Rattler\Rattler\obj\Debug\Rattler.Properties.Resources.resources
+D:\4 СЕМЕСТР\ООП\11.05.2020\KP(21.05)\KP\Rattler\Rattler\obj\Debug\Rattler.csproj.GenerateResource.cache
+D:\4 СЕМЕСТР\ООП\11.05.2020\KP(21.05)\KP\Rattler\Rattler\obj\Debug\Rattler.csproj.CoreCompileInputs.cache
+D:\4 СЕМЕСТР\ООП\11.05.2020\KP(21.05)\KP\Rattler\Rattler\obj\Debug\Rattler.csproj.CopyComplete
+D:\4 СЕМЕСТР\ООП\11.05.2020\KP(21.05)\KP\Rattler\Rattler\obj\Debug\Rattler.exe
+D:\4 СЕМЕСТР\ООП\11.05.2020\KP(21.05)\KP\Rattler\Rattler\obj\Debug\Rattler.pdb
+D:\4 СЕМЕСТР\ООП\11.05.2020\KP(21.05)\KP\Rattler\Rattler\obj\Debug\Views\OrderFormWindow.g.cs
+D:\4 СЕМЕСТР\ООП\11.05.2020\KP(21.05)\KP\Rattler\Rattler\obj\Debug\Views\OrderFormWindow.baml
+D:\4 СЕМЕСТР\ООП\11.05.2020\KP(21.05)\KP\Rattler\Rattler\obj\Debug\Views\OrderControl.g.cs
+D:\4 СЕМЕСТР\ООП\11.05.2020\KP(21.05)\KP\Rattler\Rattler\obj\Debug\Views\OrderControl.baml
+D:\4 СЕМЕСТР\ООП\11.05.2020\KP(21.05)\KP\Rattler\Rattler\obj\Debug\App.baml
+D:\4 СЕМЕСТР\ООП\11.05.2020\KP(21.05)\KP\Rattler\Rattler\obj\Debug\Rattler.csprojAssemblyReference.cache
+B:\КУРСАЧ\KP(21.05)\KP\Rattler\Rattler\bin\Debug\Rattler.exe.config
+B:\КУРСАЧ\KP(21.05)\KP\Rattler\Rattler\bin\Debug\Rattler.exe
+B:\КУРСАЧ\KP(21.05)\KP\Rattler\Rattler\bin\Debug\Rattler.pdb
+B:\КУРСАЧ\KP(21.05)\KP\Rattler\Rattler\bin\Debug\CommonServiceLocator.dll
+B:\КУРСАЧ\KP(21.05)\KP\Rattler\Rattler\bin\Debug\EntityFramework.dll
+B:\КУРСАЧ\KP(21.05)\KP\Rattler\Rattler\bin\Debug\EntityFramework.SqlServer.dll
+B:\КУРСАЧ\KP(21.05)\KP\Rattler\Rattler\bin\Debug\GalaSoft.MvvmLight.dll
+B:\КУРСАЧ\KP(21.05)\KP\Rattler\Rattler\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+B:\КУРСАЧ\KP(21.05)\KP\Rattler\Rattler\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+B:\КУРСАЧ\KP(21.05)\KP\Rattler\Rattler\bin\Debug\MaterialDesignColors.dll
+B:\КУРСАЧ\KP(21.05)\KP\Rattler\Rattler\bin\Debug\MaterialDesignThemes.Wpf.dll
+B:\КУРСАЧ\KP(21.05)\KP\Rattler\Rattler\bin\Debug\Sitecore.FakeDb.dll
+B:\КУРСАЧ\KP(21.05)\KP\Rattler\Rattler\bin\Debug\System.Windows.Interactivity.dll
+B:\КУРСАЧ\KP(21.05)\KP\Rattler\Rattler\bin\Debug\EntityFramework.xml
+B:\КУРСАЧ\KP(21.05)\KP\Rattler\Rattler\bin\Debug\EntityFramework.SqlServer.xml
+B:\КУРСАЧ\KP(21.05)\KP\Rattler\Rattler\bin\Debug\GalaSoft.MvvmLight.pdb
+B:\КУРСАЧ\KP(21.05)\KP\Rattler\Rattler\bin\Debug\GalaSoft.MvvmLight.xml
+B:\КУРСАЧ\KP(21.05)\KP\Rattler\Rattler\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+B:\КУРСАЧ\KP(21.05)\KP\Rattler\Rattler\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+B:\КУРСАЧ\KP(21.05)\KP\Rattler\Rattler\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+B:\КУРСАЧ\KP(21.05)\KP\Rattler\Rattler\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+B:\КУРСАЧ\KP(21.05)\KP\Rattler\Rattler\bin\Debug\MaterialDesignColors.pdb
+B:\КУРСАЧ\KP(21.05)\KP\Rattler\Rattler\bin\Debug\MaterialDesignThemes.Wpf.pdb
+B:\КУРСАЧ\KP(21.05)\KP\Rattler\Rattler\bin\Debug\MaterialDesignThemes.Wpf.xml
+B:\КУРСАЧ\KP(21.05)\KP\Rattler\Rattler\bin\Debug\Sitecore.FakeDb.xml
+B:\КУРСАЧ\KP(21.05)\KP\Rattler\Rattler\obj\Debug\Views\TripControl.baml
+B:\КУРСАЧ\KP(21.05)\KP\Rattler\Rattler\obj\Debug\AdminWindow.g.cs
+B:\КУРСАЧ\KP(21.05)\KP\Rattler\Rattler\obj\Debug\EntryWindow.g.cs
+B:\КУРСАЧ\KP(21.05)\KP\Rattler\Rattler\obj\Debug\MainWindow.g.cs
+B:\КУРСАЧ\KP(21.05)\KP\Rattler\Rattler\obj\Debug\Views\LoginControl.g.cs
+B:\КУРСАЧ\KP(21.05)\KP\Rattler\Rattler\obj\Debug\Views\OrderControl.g.cs
+B:\КУРСАЧ\KP(21.05)\KP\Rattler\Rattler\obj\Debug\Views\OrderFormWindow.g.cs
+B:\КУРСАЧ\KP(21.05)\KP\Rattler\Rattler\obj\Debug\Views\RegistrationControl.g.cs
+B:\КУРСАЧ\KP(21.05)\KP\Rattler\Rattler\obj\Debug\Views\TrainControl.g.cs
+B:\КУРСАЧ\KP(21.05)\KP\Rattler\Rattler\obj\Debug\Views\TripControl.g.cs
+B:\КУРСАЧ\KP(21.05)\KP\Rattler\Rattler\obj\Debug\App.g.cs
+B:\КУРСАЧ\KP(21.05)\KP\Rattler\Rattler\obj\Debug\GeneratedInternalTypeHelper.g.cs
+B:\КУРСАЧ\KP(21.05)\KP\Rattler\Rattler\obj\Debug\Rattler_MarkupCompile.cache
+B:\КУРСАЧ\KP(21.05)\KP\Rattler\Rattler\obj\Debug\Rattler_MarkupCompile.lref
+B:\КУРСАЧ\KP(21.05)\KP\Rattler\Rattler\obj\Debug\App.baml
+B:\КУРСАЧ\KP(21.05)\KP\Rattler\Rattler\obj\Debug\AdminWindow.baml
+B:\КУРСАЧ\KP(21.05)\KP\Rattler\Rattler\obj\Debug\EntryWindow.baml
+B:\КУРСАЧ\KP(21.05)\KP\Rattler\Rattler\obj\Debug\MainWindow.baml
+B:\КУРСАЧ\KP(21.05)\KP\Rattler\Rattler\obj\Debug\Views\LoginControl.baml
+B:\КУРСАЧ\KP(21.05)\KP\Rattler\Rattler\obj\Debug\Views\OrderControl.baml
+B:\КУРСАЧ\KP(21.05)\KP\Rattler\Rattler\obj\Debug\Views\OrderFormWindow.baml
+B:\КУРСАЧ\KP(21.05)\KP\Rattler\Rattler\obj\Debug\Views\RegistrationControl.baml
+B:\КУРСАЧ\KP(21.05)\KP\Rattler\Rattler\obj\Debug\Views\TrainControl.baml
+B:\КУРСАЧ\KP(21.05)\KP\Rattler\Rattler\obj\Debug\Rattler.g.resources
+B:\КУРСАЧ\KP(21.05)\KP\Rattler\Rattler\obj\Debug\Rattler.Properties.Resources.resources
+B:\КУРСАЧ\KP(21.05)\KP\Rattler\Rattler\obj\Debug\Rattler.csproj.GenerateResource.cache
+B:\КУРСАЧ\KP(21.05)\KP\Rattler\Rattler\obj\Debug\Rattler.csproj.CoreCompileInputs.cache
+B:\КУРСАЧ\KP(21.05)\KP\Rattler\Rattler\obj\Debug\Rattler.csproj.CopyComplete
+B:\КУРСАЧ\KP(21.05)\KP\Rattler\Rattler\obj\Debug\Rattler.exe
+B:\КУРСАЧ\KP(21.05)\KP\Rattler\Rattler\obj\Debug\Rattler.pdb
+D:\4 СЕМЕСТР\Курсовой проект\Rattler\Rattler\bin\Debug\Rattler.exe.config
+D:\4 СЕМЕСТР\Курсовой проект\Rattler\Rattler\bin\Debug\Rattler.exe
+D:\4 СЕМЕСТР\Курсовой проект\Rattler\Rattler\bin\Debug\Rattler.pdb
+D:\4 СЕМЕСТР\Курсовой проект\Rattler\Rattler\bin\Debug\CommonServiceLocator.dll
+D:\4 СЕМЕСТР\Курсовой проект\Rattler\Rattler\bin\Debug\EntityFramework.dll
+D:\4 СЕМЕСТР\Курсовой проект\Rattler\Rattler\bin\Debug\EntityFramework.SqlServer.dll
+D:\4 СЕМЕСТР\Курсовой проект\Rattler\Rattler\bin\Debug\GalaSoft.MvvmLight.dll
+D:\4 СЕМЕСТР\Курсовой проект\Rattler\Rattler\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+D:\4 СЕМЕСТР\Курсовой проект\Rattler\Rattler\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+D:\4 СЕМЕСТР\Курсовой проект\Rattler\Rattler\bin\Debug\MaterialDesignColors.dll
+D:\4 СЕМЕСТР\Курсовой проект\Rattler\Rattler\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\4 СЕМЕСТР\Курсовой проект\Rattler\Rattler\bin\Debug\Sitecore.FakeDb.dll
+D:\4 СЕМЕСТР\Курсовой проект\Rattler\Rattler\bin\Debug\System.Windows.Interactivity.dll
+D:\4 СЕМЕСТР\Курсовой проект\Rattler\Rattler\bin\Debug\EntityFramework.xml
+D:\4 СЕМЕСТР\Курсовой проект\Rattler\Rattler\bin\Debug\EntityFramework.SqlServer.xml
+D:\4 СЕМЕСТР\Курсовой проект\Rattler\Rattler\bin\Debug\GalaSoft.MvvmLight.pdb
+D:\4 СЕМЕСТР\Курсовой проект\Rattler\Rattler\bin\Debug\GalaSoft.MvvmLight.xml
+D:\4 СЕМЕСТР\Курсовой проект\Rattler\Rattler\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+D:\4 СЕМЕСТР\Курсовой проект\Rattler\Rattler\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+D:\4 СЕМЕСТР\Курсовой проект\Rattler\Rattler\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+D:\4 СЕМЕСТР\Курсовой проект\Rattler\Rattler\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+D:\4 СЕМЕСТР\Курсовой проект\Rattler\Rattler\bin\Debug\MaterialDesignColors.pdb
+D:\4 СЕМЕСТР\Курсовой проект\Rattler\Rattler\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\4 СЕМЕСТР\Курсовой проект\Rattler\Rattler\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\4 СЕМЕСТР\Курсовой проект\Rattler\Rattler\bin\Debug\Sitecore.FakeDb.xml
+D:\4 СЕМЕСТР\Курсовой проект\Rattler\Rattler\obj\Debug\Views\TripControl.baml
+D:\4 СЕМЕСТР\Курсовой проект\Rattler\Rattler\obj\Debug\AdminWindow.g.cs
+D:\4 СЕМЕСТР\Курсовой проект\Rattler\Rattler\obj\Debug\EntryWindow.g.cs
+D:\4 СЕМЕСТР\Курсовой проект\Rattler\Rattler\obj\Debug\MainWindow.g.cs
+D:\4 СЕМЕСТР\Курсовой проект\Rattler\Rattler\obj\Debug\Views\LoginControl.g.cs
+D:\4 СЕМЕСТР\Курсовой проект\Rattler\Rattler\obj\Debug\Views\OrderControl.g.cs
+D:\4 СЕМЕСТР\Курсовой проект\Rattler\Rattler\obj\Debug\Views\OrderFormWindow.g.cs
+D:\4 СЕМЕСТР\Курсовой проект\Rattler\Rattler\obj\Debug\Views\RegistrationControl.g.cs
+D:\4 СЕМЕСТР\Курсовой проект\Rattler\Rattler\obj\Debug\Views\TrainControl.g.cs
+D:\4 СЕМЕСТР\Курсовой проект\Rattler\Rattler\obj\Debug\Views\TripControl.g.cs
+D:\4 СЕМЕСТР\Курсовой проект\Rattler\Rattler\obj\Debug\App.g.cs
+D:\4 СЕМЕСТР\Курсовой проект\Rattler\Rattler\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\4 СЕМЕСТР\Курсовой проект\Rattler\Rattler\obj\Debug\Rattler_MarkupCompile.cache
+D:\4 СЕМЕСТР\Курсовой проект\Rattler\Rattler\obj\Debug\Rattler_MarkupCompile.lref
+D:\4 СЕМЕСТР\Курсовой проект\Rattler\Rattler\obj\Debug\App.baml
+D:\4 СЕМЕСТР\Курсовой проект\Rattler\Rattler\obj\Debug\AdminWindow.baml
+D:\4 СЕМЕСТР\Курсовой проект\Rattler\Rattler\obj\Debug\EntryWindow.baml
+D:\4 СЕМЕСТР\Курсовой проект\Rattler\Rattler\obj\Debug\MainWindow.baml
+D:\4 СЕМЕСТР\Курсовой проект\Rattler\Rattler\obj\Debug\Views\LoginControl.baml
+D:\4 СЕМЕСТР\Курсовой проект\Rattler\Rattler\obj\Debug\Views\OrderControl.baml
+D:\4 СЕМЕСТР\Курсовой проект\Rattler\Rattler\obj\Debug\Views\OrderFormWindow.baml
+D:\4 СЕМЕСТР\Курсовой проект\Rattler\Rattler\obj\Debug\Views\RegistrationControl.baml
+D:\4 СЕМЕСТР\Курсовой проект\Rattler\Rattler\obj\Debug\Views\TrainControl.baml
+D:\4 СЕМЕСТР\Курсовой проект\Rattler\Rattler\obj\Debug\Rattler.g.resources
+D:\4 СЕМЕСТР\Курсовой проект\Rattler\Rattler\obj\Debug\Rattler.Properties.Resources.resources
+D:\4 СЕМЕСТР\Курсовой проект\Rattler\Rattler\obj\Debug\Rattler.csproj.GenerateResource.cache
+D:\4 СЕМЕСТР\Курсовой проект\Rattler\Rattler\obj\Debug\Rattler.csproj.CoreCompileInputs.cache
+D:\4 СЕМЕСТР\Курсовой проект\Rattler\Rattler\obj\Debug\Rattler.csproj.CopyComplete
+D:\4 СЕМЕСТР\Курсовой проект\Rattler\Rattler\obj\Debug\Rattler.exe
+D:\4 СЕМЕСТР\Курсовой проект\Rattler\Rattler\obj\Debug\Rattler.pdb
+D:\4 СЕМЕСТР\Курсовой проект\Rattler\Rattler\obj\Debug\Rattler.csprojAssemblyReference.cache
+D:\2 КУРС\4 СЕМЕСТР\Курсовой проект\Rattler\Rattler\bin\Debug\Rattler.exe.config
+D:\2 КУРС\4 СЕМЕСТР\Курсовой проект\Rattler\Rattler\bin\Debug\Rattler.exe
+D:\2 КУРС\4 СЕМЕСТР\Курсовой проект\Rattler\Rattler\bin\Debug\Rattler.pdb
+D:\2 КУРС\4 СЕМЕСТР\Курсовой проект\Rattler\Rattler\bin\Debug\CommonServiceLocator.dll
+D:\2 КУРС\4 СЕМЕСТР\Курсовой проект\Rattler\Rattler\bin\Debug\EntityFramework.dll
+D:\2 КУРС\4 СЕМЕСТР\Курсовой проект\Rattler\Rattler\bin\Debug\EntityFramework.SqlServer.dll
+D:\2 КУРС\4 СЕМЕСТР\Курсовой проект\Rattler\Rattler\bin\Debug\GalaSoft.MvvmLight.dll
+D:\2 КУРС\4 СЕМЕСТР\Курсовой проект\Rattler\Rattler\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+D:\2 КУРС\4 СЕМЕСТР\Курсовой проект\Rattler\Rattler\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+D:\2 КУРС\4 СЕМЕСТР\Курсовой проект\Rattler\Rattler\bin\Debug\MaterialDesignColors.dll
+D:\2 КУРС\4 СЕМЕСТР\Курсовой проект\Rattler\Rattler\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\2 КУРС\4 СЕМЕСТР\Курсовой проект\Rattler\Rattler\bin\Debug\Sitecore.FakeDb.dll
+D:\2 КУРС\4 СЕМЕСТР\Курсовой проект\Rattler\Rattler\bin\Debug\System.Windows.Interactivity.dll
+D:\2 КУРС\4 СЕМЕСТР\Курсовой проект\Rattler\Rattler\bin\Debug\EntityFramework.xml
+D:\2 КУРС\4 СЕМЕСТР\Курсовой проект\Rattler\Rattler\bin\Debug\EntityFramework.SqlServer.xml
+D:\2 КУРС\4 СЕМЕСТР\Курсовой проект\Rattler\Rattler\bin\Debug\GalaSoft.MvvmLight.pdb
+D:\2 КУРС\4 СЕМЕСТР\Курсовой проект\Rattler\Rattler\bin\Debug\GalaSoft.MvvmLight.xml
+D:\2 КУРС\4 СЕМЕСТР\Курсовой проект\Rattler\Rattler\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+D:\2 КУРС\4 СЕМЕСТР\Курсовой проект\Rattler\Rattler\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+D:\2 КУРС\4 СЕМЕСТР\Курсовой проект\Rattler\Rattler\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+D:\2 КУРС\4 СЕМЕСТР\Курсовой проект\Rattler\Rattler\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+D:\2 КУРС\4 СЕМЕСТР\Курсовой проект\Rattler\Rattler\bin\Debug\MaterialDesignColors.pdb
+D:\2 КУРС\4 СЕМЕСТР\Курсовой проект\Rattler\Rattler\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\2 КУРС\4 СЕМЕСТР\Курсовой проект\Rattler\Rattler\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\2 КУРС\4 СЕМЕСТР\Курсовой проект\Rattler\Rattler\bin\Debug\Sitecore.FakeDb.xml
+D:\2 КУРС\4 СЕМЕСТР\Курсовой проект\Rattler\Rattler\obj\Debug\Rattler.csprojAssemblyReference.cache
+D:\2 КУРС\4 СЕМЕСТР\Курсовой проект\Rattler\Rattler\obj\Debug\Views\TripControl.baml
+D:\2 КУРС\4 СЕМЕСТР\Курсовой проект\Rattler\Rattler\obj\Debug\AdminWindow.g.cs
+D:\2 КУРС\4 СЕМЕСТР\Курсовой проект\Rattler\Rattler\obj\Debug\EntryWindow.g.cs
+D:\2 КУРС\4 СЕМЕСТР\Курсовой проект\Rattler\Rattler\obj\Debug\MainWindow.g.cs
+D:\2 КУРС\4 СЕМЕСТР\Курсовой проект\Rattler\Rattler\obj\Debug\Views\LoginControl.g.cs
+D:\2 КУРС\4 СЕМЕСТР\Курсовой проект\Rattler\Rattler\obj\Debug\Views\OrderControl.g.cs
+D:\2 КУРС\4 СЕМЕСТР\Курсовой проект\Rattler\Rattler\obj\Debug\Views\OrderFormWindow.g.cs
+D:\2 КУРС\4 СЕМЕСТР\Курсовой проект\Rattler\Rattler\obj\Debug\Views\RegistrationControl.g.cs
+D:\2 КУРС\4 СЕМЕСТР\Курсовой проект\Rattler\Rattler\obj\Debug\Views\TrainControl.g.cs
+D:\2 КУРС\4 СЕМЕСТР\Курсовой проект\Rattler\Rattler\obj\Debug\Views\TripControl.g.cs
+D:\2 КУРС\4 СЕМЕСТР\Курсовой проект\Rattler\Rattler\obj\Debug\App.g.cs
+D:\2 КУРС\4 СЕМЕСТР\Курсовой проект\Rattler\Rattler\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\2 КУРС\4 СЕМЕСТР\Курсовой проект\Rattler\Rattler\obj\Debug\Rattler_MarkupCompile.cache
+D:\2 КУРС\4 СЕМЕСТР\Курсовой проект\Rattler\Rattler\obj\Debug\Rattler_MarkupCompile.lref
+D:\2 КУРС\4 СЕМЕСТР\Курсовой проект\Rattler\Rattler\obj\Debug\App.baml
+D:\2 КУРС\4 СЕМЕСТР\Курсовой проект\Rattler\Rattler\obj\Debug\AdminWindow.baml
+D:\2 КУРС\4 СЕМЕСТР\Курсовой проект\Rattler\Rattler\obj\Debug\EntryWindow.baml
+D:\2 КУРС\4 СЕМЕСТР\Курсовой проект\Rattler\Rattler\obj\Debug\MainWindow.baml
+D:\2 КУРС\4 СЕМЕСТР\Курсовой проект\Rattler\Rattler\obj\Debug\Views\LoginControl.baml
+D:\2 КУРС\4 СЕМЕСТР\Курсовой проект\Rattler\Rattler\obj\Debug\Views\OrderControl.baml
+D:\2 КУРС\4 СЕМЕСТР\Курсовой проект\Rattler\Rattler\obj\Debug\Views\OrderFormWindow.baml
+D:\2 КУРС\4 СЕМЕСТР\Курсовой проект\Rattler\Rattler\obj\Debug\Views\RegistrationControl.baml
+D:\2 КУРС\4 СЕМЕСТР\Курсовой проект\Rattler\Rattler\obj\Debug\Views\TrainControl.baml
+D:\2 КУРС\4 СЕМЕСТР\Курсовой проект\Rattler\Rattler\obj\Debug\Rattler.g.resources
+D:\2 КУРС\4 СЕМЕСТР\Курсовой проект\Rattler\Rattler\obj\Debug\Rattler.Properties.Resources.resources
+D:\2 КУРС\4 СЕМЕСТР\Курсовой проект\Rattler\Rattler\obj\Debug\Rattler.csproj.GenerateResource.cache
+D:\2 КУРС\4 СЕМЕСТР\Курсовой проект\Rattler\Rattler\obj\Debug\Rattler.csproj.CoreCompileInputs.cache
+D:\2 КУРС\4 СЕМЕСТР\Курсовой проект\Rattler\Rattler\obj\Debug\Rattler.csproj.CopyComplete
+D:\2 КУРС\4 СЕМЕСТР\Курсовой проект\Rattler\Rattler\obj\Debug\Rattler.exe
+D:\2 КУРС\4 СЕМЕСТР\Курсовой проект\Rattler\Rattler\obj\Debug\Rattler.pdb

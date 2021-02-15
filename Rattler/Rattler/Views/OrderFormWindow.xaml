@@ -1,0 +1,48 @@
+﻿<Window x:Class="Rattler.Views.OrderFormWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Rattler.Views"
+        mc:Ignorable="d"
+        Title="OrderFormWindow" Height="600" Width="800">
+    <Border  Background="CadetBlue" CornerRadius="50" Margin="20">
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="100"></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition Width="100"></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition MaxHeight="100"></RowDefinition>
+                <RowDefinition MaxHeight="40"></RowDefinition>
+                <RowDefinition MaxHeight="40"></RowDefinition>
+                <RowDefinition MaxHeight="40"></RowDefinition>
+                <RowDefinition MaxHeight="40"></RowDefinition>
+                <RowDefinition MaxHeight="40"></RowDefinition>
+                <RowDefinition MaxHeight="40"></RowDefinition>
+                <RowDefinition MaxHeight="40"></RowDefinition>
+                <RowDefinition MaxHeight="40"></RowDefinition>
+                <RowDefinition ></RowDefinition>
+            </Grid.RowDefinitions>
+
+            <Label
+                   VerticalAlignment="Center" Grid.Row="0" Grid.Column="1" FontSize="35" HorizontalAlignment="Center">
+                <TextBlock Text="Введите данные для оформления заказа" TextWrapping="Wrap"></TextBlock>
+            </Label>
+
+            <Label Content="Email"  Grid.Row="1" Grid.Column="1" MaxWidth="700" FontSize="18" Margin="50,2,50,0"/>
+            <TextBox Name="EmailAgain"  Grid.Row="2"  FontSize="20" Grid.Column="1" MaxWidth="700"  Margin="50,0,50,0"></TextBox>
+            <Label Content="Password" MaxWidth="700"  Grid.Row="3"  Grid.Column="1"  FontSize="18" Margin="50,2,50,0"/>
+            <PasswordBox Name="PasswordAgain" Grid.Column="1"  Grid.Row="4"  MaxWidth="700" FontSize="20"  Margin="50,0,50,0"></PasswordBox>
+            <Label Content="ФИО"  Grid.Row="5" Grid.Column="1" MaxWidth="700" FontSize="18" Margin="50,2,50,0"/>
+            <TextBox Name="Name"  Grid.Row="6"  FontSize="20" Grid.Column="1" MaxWidth="700"  Margin="50,0,50,0"></TextBox>
+            <Label Content="Паспорт"  Grid.Row="7" Grid.Column="1"  MaxWidth="700" FontSize="18" Margin="50,2,50,0"/>
+            <TextBox Name="Passport"  Grid.Row="8"  FontSize="20" Grid.Column="1" MaxWidth="700"  Margin="50,0,50,0"></TextBox>
+            <Button Name="SubmitButton" Grid.Column="1"  Grid.Row="9" MaxWidth="700"
+                    VerticalAlignment="Top" MaxHeight="40" Content="Продолжить" Margin ="120 30" FontSize="20"
+                    Click="SubmitButton_Click"/>
+        </Grid>
+    </Border>
+
+</Window>

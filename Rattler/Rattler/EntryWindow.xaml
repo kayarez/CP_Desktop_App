@@ -1,0 +1,45 @@
+﻿<Window x:Class="Rattler.EntryWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Rattler"
+        xmlns:viewmodels="clr-namespace:Rattler.ViewModels"
+        xmlns:views="clr-namespace:Rattler.Views"
+        mc:Ignorable="d"
+        Icon="Resources\Train.jpg"
+        Title="Rattler" MinHeight="600" MinWidth="800" MaxHeight="650" MaxWidth="1200" FontSize="14" ResizeMode="NoResize" WindowStartupLocation="CenterScreen" >
+
+    <Window.Resources>
+        <DataTemplate x:Name="LoginViewTemplate" DataType="{x:Type viewmodels:LoginViewModel}">
+            <views:LoginControl DataContext="{Binding}"/>
+        </DataTemplate>
+        <DataTemplate x:Name="RegistrationViewTemplate" DataType="{x:Type viewmodels:RegistrationViewModel}">
+            <views:RegistrationControl DataContext="{Binding}"/>
+        </DataTemplate>
+    </Window.Resources>
+    <Border CornerRadius="30" Margin="30" Background="CadetBlue">
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="90"/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition Width="90"/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height ="60"/>
+                <RowDefinition Height ="*"/>
+                <RowDefinition Height="370"/>
+            </Grid.RowDefinitions>
+            <ContentControl Grid.Row="2" Grid.Column="1" Grid.ColumnSpan="2"  Content="{Binding SelectedViewModel}"/>
+            <StackPanel Grid.Row="0" Grid.Column="1" Grid.ColumnSpan="2">
+                <Label FontWeight="Bold" Content="Rattler" FontSize="30" HorizontalAlignment="Center"/>
+                <Separator ></Separator>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" Grid.Row="1" Grid.Column="1" Grid.ColumnSpan="2" HorizontalAlignment="Center">
+                <Button  Name="btnSubmit" Command="{Binding UpdateViewCommand}" MaxHeight="80" MinWidth="140" Margin="0 0 20 0" CommandParameter="Login" Content="Вход" FontSize="20" />
+                <Button  Name="btnRegistration" Command="{Binding UpdateViewCommand}" MaxHeight="80" MinWidth="140" CommandParameter="Registration" Content="Регистрация" FontSize="20" />
+            </StackPanel>
+        </Grid>
+    </Border>
+</Window>
